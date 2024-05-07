@@ -8,4 +8,5 @@ Related to figures 3, S6, S7 and S8.
 Report to each individual _infos_xxx.txt_ files to get pointers to related data files in _data/_ folder.
 
 Here is the DOI for the released code:
-(to come)
+[![DOI](https://zenodo.org/badge/797124410.svg)](https://zenodo.org/doi/10.5281/zenodo.11125097)
+
