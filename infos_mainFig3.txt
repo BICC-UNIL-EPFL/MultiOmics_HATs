@@ -1,0 +1,72 @@
+Main Figure 3
+
+** Fig 3A:
+This can be easily reproduced from data reported in 
+table_metadata.xlsx
+sheet "allCells"
+
+** Fig 3B, 3C, 3D & 3E:
+This can be easily reproduced from data reported in 
+table_metadata.xlsx
+sheet "LAExcitatoryNeurons"
+
+** Fig 3F, 3G, 3I:
+This can be easily reproduced from data reported in 
+accessibilityScores.xlsx
+
+** Fig 3I:
+This can be easily reproduced from data reported in 
+table_DApeaks.xlsx
+
+** Fig 3J:
+This can be easily reproduced from data reported in 
+Halder/DA_and_Halder.pdf
+Or from files 
+table_DApeaks.xlsx  & Halder/peaks in file NAI-00H-CA1-NEU-H3K27AC_c10.0_l300_g1000_peaks.narrowPeak (Halder et al. peaks called with macs3 )
+
+** Fig 3K:
+This can be easily reproduced from data reported in 
+table_DApeaks.xlsx 
+
+** Fig 3L:
+This can be easily reproduced from data reported in 
+table_DEgenes.xlsx 
+
+** Fig 3M:
+This can be easily reproduced from data reported in 
+enrichedTerms_DADE.xlsx
+sheet "CC;UpOnly|Opened_PromExt"
+note that the terms labelled on the figure have been manually refined from the/
+
+** Fig 3N:
+This can be easily reproduced from data reported in 
+dotplots_DAandDE.xlsx
+sheet "DADE"
+
+** Fig 3O & 3P:
+This can be easily reproduced from data reported in 
+enrichedHeatmaps_geneCentric_data.xlsx & enrichedHeatmaps_peakCentric_data.xlsx
+
+** Fig 3Q
+table_DApeaks.xlsx
+sheet "DA_promExt_SignOpened" (using columns splitGrp and distanceToTSS)
+
+** Fig 3R:
+This can be easily reproduced from data reported in
+table_DADE_ATAC.xlsx
+sheets "ATAC_DA_CBP" and "ATAC_DE_CBP" for left plot "from CBP comparison"
+sheets "ATAC_DA_KAT5" and "ATAC_DE_KAT5" for right plot "from KAT5 comparison"
+
+
+** Fig 3S
+This can be easily reproduced from data reported in
+table_DADE_mRNA.xlsx
+sheets "RNA_DA_CBP" and "RNA_DE_CBP" for left plot "from CBP comparison"
+sheets "RNA_DA_KAT5" and "RNA_DE_KAT5" for right plot "from KAT5 comparison"
+
+
+** Fig 3T:
+This can be easily reproduced using CoveragePlot of Signac package
+
+
+

@@ -1,0 +1,41 @@
+Supplementary Figure S7
+
+** Supp Fig S7A:
+This can be easily reproduced from data reported in 
+table_metadata.xlsx
+sheet "LAPosExcitatoryNeurons"
+
+** Supp Fig S7B:
+This can be easily reproduced from data reported in 
+table_DApeaks.xlsx
+
+** Supp Fig S7C:
+This can be easily reproduced from data reported in 
+table_metadata.xlsx
+sheet "LAPosExcitatoryNeurons"
+
+** Supp Fig S7D:
+This can be easily reproduced from data reported in 
+table_DApeaks.xlsx
+
+** Supp Fig S7E:
+This can be easily reproduced from data reported in
+enrichedTerms_DAgainedAtPromExt_CC_table.csv
+
+** Supp Fig S7F:
+This can be easily reproduced from data reported in
+table_DEgenes.xlsx
+
+** Supp Fig S7G:
+This can be easily reproduced from data reported in
+enrichedTerms_DEup_CC_table.csv
+
+** Supp Fig S7H:
+This can be easily reproduced from data reported in
+htree_CC_data.xlsx
+
+** Supp Fig S7I:
+This can be easily reproduced from data reported in
+enrichedTerms_DADE_CC_synapse.csv
+
+

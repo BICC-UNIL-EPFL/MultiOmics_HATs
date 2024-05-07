@@ -1,0 +1,37 @@
+Cluster,curDA_grp,ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0043296,apical junction complex,6/168,169/28585,0.000506332,0.059503568,0.049436318,Plekha7/Amotl1/Mpdz/Cyth1/Kifc3/Magi2,6
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0016324,apical plasma membrane,9/168,406/28585,0.000700534,0.059503568,0.049436318,Slc6a6/Ptpro/Amotl1/Plec/Mpdz/Abcc1/Ctsb/Slc16a2/Nherf1,9
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0098982,GABA-ergic synapse,5/168,134/28585,0.001198172,0.059503568,0.049436318,Slc6a6/Ptpro/Mdga1/Magi2/Erc2,5
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0098802,plasma membrane signaling receptor complex,6/168,201/28585,0.00124695,0.059503568,0.049436318,Htr3a/Traf2/Alcam/Itga3/Itgal/Cacng3,6
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0034992,microtubule organizing center attachment site,2/168,11/28585,0.001823864,0.059503568,0.049436318,Sun3/Clmn,2
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0034993,meiotic nuclear membrane microtubule tethering complex,2/168,11/28585,0.001823864,0.059503568,0.049436318,Sun3/Clmn,2
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0106083,nuclear membrane protein complex,2/168,11/28585,0.001823864,0.059503568,0.049436318,Sun3/Clmn,2
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0106094,nuclear membrane microtubule tethering complex,2/168,11/28585,0.001823864,0.059503568,0.049436318,Sun3/Clmn,2
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0034702,ion channel complex,7/168,301/28585,0.002092813,0.060691572,0.050423326,Dpp6/Htr3a/Cacna1h/Slc17a7/Kcnj11/Kcng3/Cacng3,7
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0042734,presynaptic membrane,6/168,238/28585,0.002913311,0.066419088,0.055181819,Htr3a/Cacna1h/Cyth1/Itga3/Kcnj11/Erc2,6
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0001772,immunological synapse,3/168,49/28585,0.003012912,0.066419088,0.055181819,Carmil2/Alcam/Itgal,3
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0042383,sarcolemma,5/168,166/28585,0.003053751,0.066419088,0.055181819,Adcy5/Cacna1h/Plec/Kcnj11/Ctsb,5
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0000792,heterochromatin,4/168,104/28585,0.00335432,0.067344418,0.055950595,Top2b/Daxx/Psip1/Cbx2,4
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0090575,RNA polymerase II transcription regulator complex,6/168,249/28585,0.003635379,0.067773848,0.056307371,Tead1/Taf1/Cebpz/Myb/Bcl9/Med15,6
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0030027,lamellipodium,5/168,180/28585,0.00430866,0.074970682,0.062286592,Wasl/Tesc/Carmil2/Amotl1/Unc5c,5
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0045211,postsynaptic membrane,7/168,348/28585,0.004645851,0.075785451,0.062963513,Slc6a6/Htr3a/Ptpro/Cacna1h/Itga3/Magi2/Cacng3,7
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0032045,guanyl-nucleotide exchange factor complex,2/168,19/28585,0.005498268,0.081150188,0.067420604,Slc38a9/Rasgrp3,2
+CBP_vs_eGFP,CBP_vs_eGFP:Opened,GO:0048786,presynaptic active zone,4/168,122/28585,0.005907485,0.081150188,0.067420604,Cacna1h/Slc17a7/Itga3/Erc2,4
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0034992,microtubule organizing center attachment site,3/175,11/28585,3.59E-05,0.002826817,0.002352138,Clmn/Sun3/Syne1,3
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0034993,meiotic nuclear membrane microtubule tethering complex,3/175,11/28585,3.59E-05,0.002826817,0.002352138,Clmn/Sun3/Syne1,3
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0106083,nuclear membrane protein complex,3/175,11/28585,3.59E-05,0.002826817,0.002352138,Clmn/Sun3/Syne1,3
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0106094,nuclear membrane microtubule tethering complex,3/175,11/28585,3.59E-05,0.002826817,0.002352138,Clmn/Sun3/Syne1,3
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0014069,postsynaptic density,11/175,442/28585,9.46E-05,0.005962246,0.004961067,Kalrn/Cacng7/Sorcs3/Gap43/Epb41l3/Grip1/Dgkb/Neurl1a/Arrb1/Fam81a/Gng3,11
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0032279,asymmetric synapse,11/175,462/28585,0.00013941,0.007319036,0.006090025,Kalrn/Cacng7/Sorcs3/Gap43/Epb41l3/Grip1/Dgkb/Neurl1a/Arrb1/Fam81a/Gng3,11
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0045211,postsynaptic membrane,9/175,348/28585,0.00031103,0.011682982,0.009721178,Cacng7/Sorcs3/Grip1/Dgkb/Kcna3/Gabbr2/Arrb1/Syne1/Itga3,9
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0016607,nuclear speck,9/175,354/28585,0.000352271,0.011682982,0.009721178,Srpk1/Cdk13/Mecom/Lmna/E2f7/Cdc25c/Vps72/Pip5k1a/Rad54l2,9
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0005912,adherens junction,6/175,153/28585,0.000370888,0.011682982,0.009721178,Rnd1/Kifc3/Arvcf/Plekha7/Efna5/Ezr,6
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0097440,apical dendrite,3/175,30/28585,0.000810847,0.022089118,0.018379917,Slc4a10/Ykt6/Neurl1a,3
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0071339,MLL1 complex,3/175,31/28585,0.000893703,0.022089118,0.018379917,Taf4/Taf1/Senp3,3
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0048786,presynaptic active zone,5/175,122/28585,0.00094502,0.022089118,0.018379917,Rimbp2/Grip1/Slc17a7/Itga3/Ppfia1,5
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0044665,MLL1/2 complex,3/175,32/28585,0.000981739,0.022089118,0.018379917,Taf4/Taf1/Senp3,3
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0098858,actin-based cell projection,6/175,232/28585,0.003142712,0.061872152,0.051482593,Gap43/Nherf1/Cfl1/Pcdh15/Ezr/Itga3,6
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0031253,cell projection membrane,7/175,325/28585,0.004008605,0.069441813,0.057781158,Gap43/Epb41l3/Nherf1/Ezr/Itga3/Dlc1/Pip5k1a,7
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:1990351,transporter complex,8/175,415/28585,0.004188554,0.069441813,0.057781158,Cacng7/Kcnk4/Scnn1b/Pex12/Kcna3/Atp8a2/Slc17a7/Kcnq2,8
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0005925,focal adhesion,5/175,174/28585,0.004436393,0.069873196,0.058140103,Cfl1/Sorbs3/Ezr/Dlc1/Ppfia1,5
+KAT5_vs_eGFP,KAT5_vs_eGFP:Opened,GO:0034703,cation channel complex,5/175,194/28585,0.006978023,0.091586556,0.07620736,Cacng7/Kcnk4/Scnn1b/Kcna3/Kcnq2,5

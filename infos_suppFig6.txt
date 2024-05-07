@@ -1,0 +1,32 @@
+Supplementary Figure S6
+
+** Supp Fig S6A:
+This can be easily reproduced from data reported in 
+table_metadata.xlsx
+sheet "allCells"
+
+** Supp Fig S6B:
+This can be easily reproduced from data reported in 
+table_metadata.xlsx
+sheet "LAExcitatoryNeurons"
+
+** Supp Fig S6C:
+This can be easily reproduced from data reported in 
+excNeu_markers_clusters_RNA_snn_res04.csv
+
+** Supp Fig 6D, 6E, 6F, 6G, 6H & 6I:
+This can be easily reproduced from data reported in 
+table_metadata.xlsx
+sheet "LAExcitatoryNeurons"
+
+** Supp 6J:
+This can be easily reproduced from data reported in 
+accessibilityScores.xlsx
+
+** Supp 6K, 6L & 6M:
+This can be easily reproduced from data reported in
+mds_data.xlsx
+
+** Supp 6N:
+This can be easily reproduced from data reported in 
+accessibilityScores.xlsx

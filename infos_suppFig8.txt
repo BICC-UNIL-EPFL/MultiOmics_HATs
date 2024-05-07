@@ -1,0 +1,34 @@
+Supplementary Figure 8
+
+** Supp Fig S8A to S8F:
+This can be easily reproduced from data reported in
+table_DADE_ATAC.xlsx
+sheets "ATAC_DA_CBP" and "ATAC_DE_CBP" for left plot "from CBP comparison"
+sheets "ATAC_DA_KAT5" and "ATAC_DE_KAT5" for right plot "from KAT5 comparison"
+
+** Supp Fig S8B:
+This can be easily reproduced from data reported in
+enrichedHeatmaps_geneCentric_data.xlsx & enrichedHeatmaps_peakCentric_data.xlsx
+
+** Supp Fig S8C:
+This can be easily reproduced from data reported in
+table_DADE_ATAC.xlsx
+sheet "ATAC_DA_CBP_@best" for top plot "from CBP comparison"
+sheet "ATAC_DA_KAT5_@best" for bottom plot "from KAT5 comparison"
+
+** Supp Fig S8D:
+This can be easily reproduced from data reported in
+enrichedHeatmaps_geneCentric_data.xlsx & enrichedHeatmaps_peakCentric_data.xlsx
+
+** Supp Fig S8E & S8F:
+This can be easily reproduced from data reported in
+table_DADE_mRNA.xlsx
+sheets "RNA_DA_CBP" and "RNA_DE_CBP" for left plot "from CBP comparison"
+sheets "RNA_DA_KAT5" and "RNA_DE_KAT5" for right plot "from KAT5 comparison"
+
+** Supp Fig S8G
+This can be easily reproduced from data reported in 
+motifs_top25.xlsx 
+sheet "top25 merged"
+(note that in this file the 3 other sheets contain the enriched motifs for each individual class) 
+

@@ -1,0 +1,20 @@
+accessibilityScores.xlsx	infos_mainFig3.txt;infos_suppFig6.txt
+dotplots_DAandDE.xlsx	infos_mainFig3.txt
+enrichedHeatmaps_geneCentric_data.xlsx	infos_mainFig3.txt;infos_suppFig8.txt
+enrichedTerms_DADE_CC_synapse.csv	infos_suppFig7.txt
+enrichedTerms_DADE.xlsx	infos_mainFig3.txt
+enrichedTerms_DAgainedAtPromExt_CC_table.csv	infos_suppFig7.txt
+enrichedTerms_DEup_CC_table.csv	infos_suppFig7.txt
+excNeu_markers_clusters_RNA_snn_res04.csv	infos_suppFig6.txt
+htree_CC_data.xlsx	infos_suppFig7.txt
+mds_data.xlsx	infos_suppFig6.txt
+motifs_top25.xlsx	infos_suppFig8.txt
+table_DADE_ATAC.xlsx	infos_mainFig3.txt;infos_suppFig8.txt
+table_DADE_mRNA.xlsx	infos_mainFig3.txt;infos_suppFig8.txt
+table_DApeaks.xlsx	infos_mainFig3.txt;infos_suppFig7.txt
+table_DEgenes.xlsx	infos_mainFig3.txt;infos_suppFig7.txt
+table_metadata.xlsx	infos_mainFig3.txt;infos_suppFig6.txt;infos_suppFig7.txt
+
+Halder/:
+DA_and_Halder.pdf	infos_mainFig3.txt
+NAI-00H-CA1-NEU-H3K27AC_c10.0_l300_g1000_peaks.narrowPeak	infos_mainFig3.txt
